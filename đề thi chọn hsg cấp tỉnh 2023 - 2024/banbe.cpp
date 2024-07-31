@@ -20,8 +20,8 @@ ll f[nmax] , l , r , cnt = 0;
 signed main(int argv, char const *argc[])
 {
 
-//    freopen(cody".inp","r",stdin);
-//    freopen(cody".out","w",stdout);
+   freopen(cody".inp","r",stdin);
+   freopen(cody".out","w",stdout);
 
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);cout.tie(NULL);
@@ -42,5 +42,5 @@ signed main(int argv, char const *argc[])
 }
 /*
 ----- Coder : Tran Dang Quang -------
-Info : –oc Co Cau Bai , Best Code Dao
+Info : √êoc Co Cau Bai , Best Code Dao
 */
